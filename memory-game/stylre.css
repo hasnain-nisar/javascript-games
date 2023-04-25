@@ -1,0 +1,30 @@
+#grid{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    border: 3px solid;
+    background-color: bisque;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border: 2px solid;
+
+}
+h3{
+    margin :20px auto;
+    width: 120px;
+    height: 30px;
+    background-color: cornflowerblue;
+    border: 3px solid black ;
+    border-radius: 5px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    font-size: 25px;
+
+}
